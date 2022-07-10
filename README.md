@@ -1,2 +1,2 @@
-# .github
-Cofiguration
+# Polydemy
+Next Level Education!
